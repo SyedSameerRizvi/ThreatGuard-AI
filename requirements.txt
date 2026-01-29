@@ -1,0 +1,24 @@
+# ThreatGuard-AI Dependencies
+# DDoS Detection System
+
+# Network traffic analysis
+nfstream>=6.5.3
+
+# Data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.0.0
+joblib>=1.0.0
+
+# Web dashboard
+flask>=2.0.0
+
+# Utilities
+tqdm>=4.62.0
+python-dateutil>=2.8.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
