@@ -1,0 +1,27 @@
+2026-01-27 19:19:51,728 - INFO - Found 5 PCAP files to process
+2026-01-27 19:19:51,763 - ERROR - Error processing SAT-03-11-2018_0: 'NFlow' object has no attribute 'bidirectional_mean_iat'
+2026-01-27 19:19:51,764 - INFO - Processed 0 flows so far...
+2026-01-27 19:19:55,856 - ERROR - Error processing SAT-03-11-2018_01: 'NFlow' object has no attribute 'bidirectional_mean_iat'
+2026-01-27 19:19:55,856 - INFO - Processed 0 flows so far...
+2026-01-27 19:19:59,834 - ERROR - Error processing SAT-03-11-2018_02: 'NFlow' object has no attribute 'bidirectional_mean_iat'
+2026-01-27 19:19:59,834 - INFO - Processed 0 flows so far...
+2026-01-27 19:20:03,805 - ERROR - Error processing SAT-03-11-2018_03: 'NFlow' object has no attribute 'bidirectional_mean_iat'
+2026-01-27 19:20:03,805 - INFO - Processed 0 flows so far...
+2026-01-27 19:20:07,711 - ERROR - Error processing SAT-03-11-2018_04: 'NFlow' object has no attribute 'bidirectional_mean_iat'
+2026-01-27 19:20:07,711 - INFO - Processed 0 flows so far...
+2026-01-27 19:20:07,717 - ERROR - No flows extracted! Check PCAP files.
+2026-01-27 19:21:39,312 - INFO - Found 10 PCAP files to process
+2026-01-27 19:23:49,563 - INFO - Extracted 3,302,760 total flows
+2026-01-27 19:23:49,563 - INFO - Validating and cleaning features...
+2026-01-27 19:23:56,755 - INFO - Saved features to /home/hannan/Desktop/threatguard-ai/data/processed/features.csv
+2026-01-27 19:24:06,967 - INFO - Saved full data to /home/hannan/Desktop/threatguard-ai/data/processed/features_full.csv
+2026-01-27 22:47:16,815 - INFO - Found 1 PCAP files to process
+2026-01-27 22:47:18,454 - INFO - Extracted 2,737 total flows
+2026-01-27 22:47:18,454 - INFO - Validating and cleaning features...
+2026-01-27 22:47:18,482 - INFO - Saved features to /home/hannan/Desktop/threatguard-ai/data/processed/my_benign_features.csv
+2026-01-27 22:47:18,505 - INFO - Saved full data to /home/hannan/Desktop/threatguard-ai/data/processed/features_full.csv
+2026-01-28 22:53:24,241 - INFO - Found 1 PCAP files to process
+2026-01-28 22:54:23,433 - INFO - Extracted 327,831 total flows
+2026-01-28 22:54:23,433 - INFO - Validating and cleaning features...
+2026-01-28 22:54:24,800 - INFO - Saved features to /home/hannan/Desktop/threatguard-ai/data/processed/syn_features.csv
+2026-01-28 22:54:26,409 - INFO - Saved full data to /home/hannan/Desktop/threatguard-ai/data/processed/features_full.csv

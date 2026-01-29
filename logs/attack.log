@@ -1,0 +1,14 @@
+============================================
+    STARTING LOCAL SYN FLOOD CAPTURE        
+============================================
+Duration: 600 seconds
+Target: 127.0.0.1 (Localhost)
+Output: /home/hannan/Desktop/threatguard-ai/data/syn_attack_local.pcap
+[1/3] Starting tcpdump on 'lo' interface...
+      -> PID: 29819
+[2/3] Starting hping3 SYN flood (100k pps)...
+      -> PID: 29845
+[3/3] Running for 600 seconds. Do not close terminal...
+--------------------------------------------
+Time's up! Stopping processes...
+Done! Capture saved to /home/hannan/Desktop/threatguard-ai/data/syn_attack_local.pcap

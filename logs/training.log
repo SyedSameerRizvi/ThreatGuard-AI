@@ -1,0 +1,21 @@
+2026-01-27 19:24:37,311 - INFO - Loading data from /home/hannan/Desktop/threatguard-ai/data/processed/features.csv
+2026-01-27 19:24:38,258 - INFO - Loaded 3,302,760 samples
+2026-01-27 19:24:38,360 - INFO - After cleaning: 3,302,760 samples
+2026-01-27 19:24:38,524 - INFO - Classes: ['BENIGN', 'UDP']
+2026-01-27 19:24:39,371 - INFO - Training Random Forest classifier...
+2026-01-27 19:25:31,092 - INFO - Saved confusion matrix to /home/hannan/Desktop/threatguard-ai/logs/confusion_matrix.png
+2026-01-27 19:25:31,209 - INFO - Saved feature importance to /home/hannan/Desktop/threatguard-ai/logs/feature_importance.png
+2026-01-27 19:25:31,509 - INFO - Saved ROC curves to /home/hannan/Desktop/threatguard-ai/logs/roc_curves.png
+2026-01-27 19:25:31,526 - INFO - Saved training report to /home/hannan/Desktop/threatguard-ai/models/training_metrics.txt
+2026-01-27 19:38:46,163 - INFO - Loading data from /home/hannan/Desktop/threatguard-ai/data/processed/features.csv
+2026-01-27 19:38:47,110 - INFO - Loaded 3,302,760 samples
+2026-01-27 19:38:47,392 - INFO - Original: BENIGN=4454, UDP=3298306
+2026-01-27 19:38:47,441 - INFO - Balanced: BENIGN=4454, UDP=22270
+2026-01-27 19:38:47,456 - INFO - Training Random Forest classifier...
+2026-01-28 22:55:26,657 - INFO - Loading data from /home/hannan/Desktop/threatguard-ai/data/processed/combined_features.csv
+2026-01-28 22:55:27,830 - INFO - Loaded 3,633,328 samples
+2026-01-28 22:55:27,915 - INFO - BENIGN samples: 7,191
+2026-01-28 22:55:28,356 - INFO -   UDP: Resampled 3,298,306 -> 35,955
+2026-01-28 22:55:28,469 - INFO -   SYN: Resampled 327,831 -> 35,955
+2026-01-28 22:55:28,482 - INFO - Class Mapping: {'BENIGN': np.int64(0), 'SYN': np.int64(1), 'UDP': np.int64(2)}
+2026-01-28 22:55:28,508 - INFO - Training Random Forest classifier...
